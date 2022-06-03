@@ -1,0 +1,15 @@
+/Users/tuliopolido/Repos/ClientTest/bin/Debug/net6.0/ClientTest
+/Users/tuliopolido/Repos/ClientTest/bin/Debug/net6.0/ClientTest.deps.json
+/Users/tuliopolido/Repos/ClientTest/bin/Debug/net6.0/ClientTest.runtimeconfig.json
+/Users/tuliopolido/Repos/ClientTest/bin/Debug/net6.0/ClientTest.dll
+/Users/tuliopolido/Repos/ClientTest/bin/Debug/net6.0/ClientTest.pdb
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.csproj.AssemblyReference.cache
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.AssemblyInfoInputs.cache
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.AssemblyInfo.cs
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.csproj.CoreCompileInputs.cache
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.dll
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/refint/ClientTest.dll
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.pdb
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ClientTest.genruntimeconfig.cache
+/Users/tuliopolido/Repos/ClientTest/obj/Debug/net6.0/ref/ClientTest.dll
